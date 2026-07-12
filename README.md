@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deepalippp
+- 👋 Hi, I’m deepali
 - 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning SQL/PL SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on EXCEL/POWERBI
+- 📫 How to reach me by email
 
 <!---
 deepalippp/deepalippp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
