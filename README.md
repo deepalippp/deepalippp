@@ -1,10 +1,9 @@
 - 👋 Hi, I’m deepali
 - 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning SQL/PL SQL
+- 🌱 I’m currently learning SQL/Python
 - 💞️ I’m looking to collaborate on EXCEL/POWERBI
-- 📫 How to reach me by email
+- 📫 How to reach me by email : deepalipatange21@gmail.com
 
 <!---
-deepalippp/deepalippp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hey! Hope you are having a good day.
 --->
