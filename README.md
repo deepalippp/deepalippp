@@ -1,4 +1,4 @@
-- 👋 Hi, I’m deepali
+- 👋 Hi, I’m deepa
 - 👀 I’m interested in playing badminton
 - 🌱 I’m currently learning SQL/Python
 - 💞️ I’m looking to collaborate on EXCEL/POWERBI
